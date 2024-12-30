@@ -22,8 +22,53 @@
 
 body {
   font-family: "Roboto", sans-serif;
-  color: #2e2f42;
+  color: #434455;
+  background-color: #ffffff;
 }
 button {
   cursor: pointer;
+}
+
+.logo {
+  font-family: "Raleway";
+  font-size: 18px;
+  line-height: 1.17;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+  color: #4d5ae5;
+}
+.logo_studio {
+  color: #2e2f42;
+}
+
+.item_one {
+  font-weight: 500;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #2e2f42;
+}
+
+.item_one:hover {
+  color: #404bbf;
+}
+.item_one:focus {
+  color: #404bbf;
+}
+
+.header-right {
+  font-style: normal;
+}
+.item_right {
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #434455;
+}
+
+.item_right:hover {
+  color: #404bbf;
+}
+
+.item_right:focus {
+  color: #404bbf;
 }
