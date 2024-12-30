@@ -113,3 +113,30 @@ button {
   letter-spacing: 0.02em;
   color: #434455;
 }
+
+.section-three {
+  background-color: #f4f4fd;
+}
+.three-title {
+  font-size: 36px;
+  line-height: 1.11;
+  text-align: center;
+  letter-spacing: 0.02em;
+  text-transform: capitalize;
+  color: #2e2f42;
+}
+.three-item {
+  background-color: #ffffff;
+}
+.three-title {
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.2;
+  letter-spacing: 0.02em;
+  color: #2e2f42;
+}
+.three-text {
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+}
